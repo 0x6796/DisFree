@@ -99,4 +99,10 @@ DisFree is not intended to be a general-purpose full-device VPN client. Its focu
 
 ## License
 
-A project license has not been selected yet. The bundled WinDivert files retain their upstream license in `windows/third_party/windivert/LICENSE.txt`.
+DisFree is free software licensed under the **GNU General Public License v3.0 or later (GPL-3.0-or-later)**.
+
+You are free to use, study, modify and redistribute DisFree under the terms of the GNU GPL. If you distribute modified versions, the corresponding source must remain available under the GPL terms.
+
+See [`LICENSE`](LICENSE) for the full license text.
+
+The bundled WinDivert files retain their own upstream license in `windows/third_party/windivert/LICENSE.txt`.
