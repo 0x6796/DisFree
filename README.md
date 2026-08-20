@@ -2,8 +2,6 @@
 
 **DisFree** is a Go project focused on one thing: **freedom to access Discord**.
 
-**Youtube video**
-https://www.youtube.com/watch?v=u5NDeGrxkTk
 
 DisFree exists so a network restriction, filter, routing problem or blocked startup path does not have to decide whether you can reach your friends, communities and conversations on Discord. The project uses a temporary VPN bootstrap only for the part that needs it, then gets out of the way and returns Discord to the normal connection.
 
