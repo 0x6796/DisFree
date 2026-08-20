@@ -1,4 +1,4 @@
-# DisFree
+# DisFree BRHU3
 
 **DisFree** is a Go project focused on one thing: **freedom to access Discord**.
 
